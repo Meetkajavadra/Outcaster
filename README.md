@@ -1,16 +1,4 @@
 # stepper_register
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/113905423/195828838-0dbb2e4a-be04-4ea1-b18f-55cecc9b1711.png" width="250" height = "500">
+<img src = "https://user-images.githubusercontent.com/113905423/195828843-8290ece7-f365-440e-b632-45de08bca912.png" width="250" height = "500">
