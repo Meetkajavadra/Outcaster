@@ -1,16 +1,6 @@
 # stepper_app
 
-A new Flutter project.
+<img src = "https://user-images.githubusercontent.com/113905423/195830202-7db0202d-5160-48ee-acba-b8d6a6ef78eb.png" width = "250" height = "500">
+<img src = "https://user-images.githubusercontent.com/113905423/195830210-2f130e90-8edb-4092-aaac-d3eccdd39092.png" width = "250" height = "500">
+<img src = "https://user-images.githubusercontent.com/113905423/195830216-6ceb5dec-bc78-4608-9566-3f22610b4423.png" width = "250" height = "500">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
